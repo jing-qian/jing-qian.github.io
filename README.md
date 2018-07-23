@@ -2,9 +2,9 @@
 
 ## Description
 
-This is the source code of **Jiawei Wu | Homepage**.
+This is the source code of **Jing Qian | Homepage**.
 
-Please directly visit: http://jiaweiwu.me/ to see this website.
+Please directly visit: http://jingqian.me/ to see this website.
 
 ## Acknowledgement
 
