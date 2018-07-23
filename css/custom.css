@@ -1,0 +1,71 @@
+img {
+    max-width: 100%;
+    max-height: auto;
+}
+
+/*
+a {
+    color: #671788;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:focus {
+  color: #671788;
+  text-decoration: underline;
+}
+*/
+
+.name {
+    font-size: 15px;
+}
+
+.project_img {
+    margin: 2px 5px 0px 0px;
+}
+
+.smallskip {
+    height: 5px;
+}
+
+.medskip {
+    height: 10px;
+}
+
+.bigskip {
+    height: 20px;
+}
+
+.info-panel {
+    display: inline-block;
+    margin-top: 5px;
+    width: 550px;
+}
+
+.quote-sentence {
+    font-style: italic;
+}
+
+.quote-author {
+    font-style: normal;
+}
+
+.publications {
+    display: inline-block;
+    margin-top: 5px;
+    width: 575px;
+}
+
+.projects {
+    display: inline-block;
+    margin-top: 5px;
+    width: 600px;
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
