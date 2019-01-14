@@ -4,7 +4,7 @@
 
 This is the source code of **Jing Qian | Homepage**.
 
-Please directly visit: http://jingqian.me/ to see this website.
+Please directly visit: http://jing-qian.github.io/ to see this website.
 
 ## Acknowledgement
 
